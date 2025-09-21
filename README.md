@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UdaEil
+- 👋 Hi, I’m Sumaira
 - 👀 I’m interested in ML and DL projects
 -
 
